@@ -8,13 +8,10 @@ I'm a Computer Science Engineer with expertise in Artificial Intelligence and Ma
 
 ## Skills & Technologies
 
-html,css,flask,fastapi,docker,git,github,postgres,pytorch,tensorflow,androidstudio,dart,django,firebase,flutter,visualstudio,unity,sklearn,postman,java,py
+[![My Skills](https://skillicons.dev/icons?i=html,css,flask,fastapi,docker,git,github,postgres,pytorch,tensorflow,androidstudio,dart,django,firebase,flutter,visualstudio,unity,sklearn,postman,java,py&perline=8)](https://skillicons.dev)
+
 
 
 ## Latest Blog Posts
 
 Currently, I don't have any blog posts or articles published. Stay tuned for updates!
-
-## Connect with Me
-
-gmail: kakaraparthiprasanth@gmail.com
